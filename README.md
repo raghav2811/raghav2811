@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @raghav2811
-- 👀 I’m interested in full stack development 
+- 👀 I’m interested in android app development
 - 🌱 I’m currently learning Artificial Intelligence and Data Science
 - 😄 Pronouns: he/him
 
