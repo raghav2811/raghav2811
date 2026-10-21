@@ -115,25 +115,23 @@ An offline computer-vision concept for detecting wildlife in images.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=raghav2811&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=8B5CF6&text_color=C9D1D9&rank_icon=github&include_all_commits=true" width="100%" alt="GitHub developer statistics"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghav2811&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=5" width="60%" alt="Most used programming languages"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghav2811&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=8" width="100%" alt="Programming language breakdown"/>
+<a href="https://github.com/raghav2811?tab=repositories">
+<img src="https://img.shields.io/badge/Explore_Repositories-161B22?style=for-the-badge&logo=github&logoColor=00D9FF" alt="Explore repositories"/>
+</a>
 
 </div>
 
 ---
 
-## `05 / CONTRIBUTION MATRIX`
+## `05 / CONTRIBUTION ACTIVITY`
 
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/raghav2811/raghav2811/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated GitHub contribution snake"/>
-
-<br/>
-
-<sub>CONSISTENCY • CURIOSITY • CONTINUOUS IMPROVEMENT</sub>
 
 </div>
 
