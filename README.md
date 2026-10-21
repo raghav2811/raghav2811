@@ -115,13 +115,10 @@ An offline computer-vision concept for detecting wildlife in images.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghav2811&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=5" width="60%" alt="Most used programming languages"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raghav2811&theme=github_dark" width="100%" alt="GitHub contribution summary"/>
 
-<br/>
-
-<a href="https://github.com/raghav2811?tab=repositories">
-<img src="https://img.shields.io/badge/Explore_Repositories-161B22?style=for-the-badge&logo=github&logoColor=00D9FF" alt="Explore repositories"/>
-</a>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=raghav2811&theme=github_dark" width="49%" alt="GitHub statistics"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=raghav2811&theme=github_dark" width="49%" alt="Repository languages"/>
 
 </div>
 
