@@ -110,6 +110,7 @@ An offline computer-vision concept for detecting wildlife in images.
 <a href="https://github.com/raghav2811?tab=repositories"><img src="https://img.shields.io/badge/Explore_All_Repositories-161B22?style=for-the-badge&logo=github&logoColor=00D9FF" alt="Explore all repositories"/></a>
 
 </div>
+
 ## `04 / GITHUB ANALYTICS`
 
 <div align="center">
