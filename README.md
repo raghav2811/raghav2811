@@ -110,19 +110,28 @@ An offline computer-vision concept for detecting wildlife in images.
 <a href="https://github.com/raghav2811?tab=repositories"><img src="https://img.shields.io/badge/Explore_All_Repositories-161B22?style=for-the-badge&logo=github&logoColor=00D9FF" alt="Explore all repositories"/></a>
 
 </div>
-
 ## `04 / GITHUB ANALYTICS`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=raghav2811&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="49%" alt="GitHub statistics"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghav2811&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="49%" alt="Top programming languages"/>
+<table>
+<tr>
+<td width="50%" align="center" valign="top">
+<img src="https://github-readme-stats.vercel.app/api?username=raghav2811&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&card_width=400" width="100%" alt="GitHub overview"/>
+</td>
+<td width="50%" align="center" valign="top">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghav2811&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&card_width=400" width="100%" alt="Most used languages"/>
+</td>
+</tr>
+</table>
 
-<br/><br/>
+<br/>
 
-<img src="https://streak-stats.demolab.com?user=raghav2811&theme=tokyonight&hide_border=true" width="75%" alt="GitHub contribution streak"/>
+<img src="https://streak-stats.demolab.com/?user=raghav2811&theme=tokyonight&hide_border=true" width="85%" alt="GitHub contribution streak"/>
 
 </div>
+
+---
 
 ## `05 / CONTRIBUTION ACTIVITY`
 
