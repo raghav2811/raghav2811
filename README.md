@@ -1,153 +1,175 @@
- <!-- Replace raghav2811 if your GitHub username is different -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090979,50:302b63,100:00d4ff&height=220&section=header&text=Raghavendhar%20R&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=AI%20%26%20Data%20Science%20Engineer%20%7C%20Developer%20%7C%20Problem%20Solver&descAlignY=57&descSize=15" width="100%" alt="Animated profile banner"/>
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:080B20,45:312E81,100:06B6D4&height=210&section=header&text=RAGHAVENDHAR%20R&fontSize=42&fontColor=FFFFFF&fontAlignY=36&animation=fadeIn&desc=AI%20ENGINEER%20%7C%20SOFTWARE%20DEVELOPER&descSize=14&descAlignY=58" width="100%" alt="Raghavendhar - AI and Software Developer"/>
 
-<a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2800&pause=900&color=00D4FF&center=true&vCenter=true&width=750&lines=Building+AI-powered+solutions;Machine+Learning+%7C+Computer+Vision;Android+Development+%7C+Kotlin;Turning+ideas+into+real-world+projects;Always+learning.+Always+building." alt="Animated typing introduction"/>
+<a href="https://readme-typing-svg.demolab.com/demo/">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2500&pause=900&color=00D9FF&center=true&vCenter=true&repeat=true&width=900&height=55&lines=%3E+Building+AI-powered+solutions;%3E+Machine+Learning+%7C+Computer+Vision;%3E+Android+Development+%7C+Kotlin;%3E+Turning+ideas+into+real-world+products" alt="Animated developer tagline"/>
 </a>
 
 <br/>
 
-<a href="https://github.com/raghav2811">
-  <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-</a>
-<a href="https://www.linkedin.com/in/raghavendhar-r-407202210/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-</a>
-<img src="https://komarev.com/ghpvc/?username=raghav2811&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" alt="Profile views"/>
+<a href="https://github.com/raghav2811"><img src="https://img.shields.io/badge/GITHUB-Explore%20Repos-0D1117?style=for-the-badge&logo=github&logoColor=00D9FF" alt="GitHub repositories"/></a>
+<a href="https://www.linkedin.com/in/raghavendhar-r-407202210/"><img src="https://img.shields.io/badge/LINKEDIN-Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/></a>
+<a href="mailto:"><img src="https://img.shields.io/badge/OPEN%20TO-Collaboration-0D1117?style=for-the-badge&logo= handshake&logoColor=00D9FF" alt="Collaboration"/></a>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## `01 / SYSTEM_PROFILE`
 
-Hi there! I'm **Raghavendhar**, an AI & Data Science engineering student passionate about building intelligent applications and solving real-world problems through technology.
+```text
+┌─────────────────────────────────────────────────────┐
+│  DEVELOPER TERMINAL                        ONLINE   │
+├─────────────────────────────────────────────────────┤
+│  USER       : Raghavendhar R                        │
+│  ROLE       : AI & Data Science Engineer            │
+│  INTERESTS  : AI / ML / Android / Computer Vision   │
+│  MINDSET    : Build -> Test -> Learn -> Improve     │
+│  OBJECTIVE  : Turning complex ideas into useful     │
+│               software and intelligent systems      │
+└─────────────────────────────────────────────────────┘
+```
 
-- 🤖 Exploring Artificial Intelligence, Machine Learning, and Deep Learning.
-- 📱 Building Android applications with Kotlin and Jetpack Compose.
-- 👁️ Working with Computer Vision, YOLO, and OpenCV.
-- 🌱 Interested in LLMs, Generative AI, Cloud, and DevSecOps.
-- 🚀 Turning ideas into practical, real-world projects.
-- 🎯 Focused on strengthening my software development skills and building impactful products.
+Hi! I'm an AI & Data Science engineering student who enjoys building practical applications at the intersection of artificial intelligence and software engineering.
 
-> *"Build things that matter. Learn things that challenge you."*
+- `01` — Machine Learning, Deep Learning & Generative AI
+- `02` — Computer Vision, YOLO & OpenCV
+- `03` — Android Development with Kotlin & Jetpack Compose
+- `04` — APIs, databases, dashboards & application deployment
+- `05` — Exploring LLMs, cloud technologies & DevSecOps
 
-## 🛠️ Tech Stack
+> **MISSION:** Learn continuously. Engineer thoughtfully. Build things that matter.
+
+## `02 / TECH_STACK`
 
 <div align="center">
 
+**LANGUAGES**
+
 <img src="https://skillicons.dev/icons?i=python,java,c,cpp,kotlin,javascript,html,css&theme=dark" alt="Programming languages"/>
 
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn,androidstudio,flask,nextjs,supabase&theme=dark" alt="AI, Android and web technologies"/>
+**AI / MACHINE LEARNING**
 
-<img src="https://skillicons.dev/icons?i=mysql,docker,git,github,linux,ubuntu,vscode,figma&theme=dark" alt="Development tools"/>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn&theme=dark" alt="Machine learning tools"/>
+
+**APPLICATION DEVELOPMENT**
+
+<img src="https://skillicons.dev/icons?i=androidstudio,flask,nextjs,supabase,mysql&theme=dark" alt="Application and database technologies"/>
+
+**TOOLS & INFRASTRUCTURE**
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,ubuntu,vscode,figma&theme=dark" alt="Development tools"/>
 
 </div>
 
-## 🚀 Featured Projects
+## `03 / FEATURED_PROJECTS`
 
 <details>
-<summary><b>🌿 EcoDrive — AI-Powered Eco-Friendly Route Planning</b></summary>
+<summary><b>01 — EcoDrive | AI-Powered Eco Route Planning</b></summary>
 
-An Android application designed to estimate driving efficiency and help users make more environmentally conscious route choices.
+**Objective:** Help drivers compare routes based on estimated fuel consumption and environmental impact.
 
-- 📱 Kotlin and Jetpack Compose
-- 🧠 Machine learning for eco-score and fuel-consumption prediction
-- 🗺️ MapLibre, OpenStreetMap, and OSRM routing
-- 🌍 Estimated fuel usage and CO₂ emissions
+- Kotlin, Jetpack Compose
+- Random Forest / neural network experimentation
+- MapLibre, OpenStreetMap, OSRM
+- Estimated fuel usage, eco-score and CO₂ emissions
+
+[Explore my repositories](https://github.com/raghav2811?tab=repositories)
 
 </details>
 
 <details>
-<summary><b>🏖️ SandScope — AI-Powered Sand Grain Analysis</b></summary>
+<summary><b>02 — SandScope | Computer Vision for Sand Analysis</b></summary>
 
-A computer-vision project for analyzing beach sand grain sizes using image processing and object detection.
+**Objective:** Analyze beach sand grain sizes using image processing and object detection.
 
-- 👁️ YOLO and OpenCV
-- 📊 Grain-size analysis and visualization
-- 🗄️ Supabase database integration
-- 💻 Next.js dashboard
+- Python, YOLO, OpenCV
+- Grain-size analysis and visualization
+- Supabase database
+- Next.js dashboard
 
-</details>
-
-<details>
-<summary><b>⛑️ MineSentinel — Smart PPE Compliance Monitoring</b></summary>
-
-An AI-based safety monitoring concept focused on identifying personal protective equipment compliance in mining environments.
-
-- 👁️ Computer vision and object detection
-- 🦺 PPE compliance monitoring
-- ⚡ Potential for real-time safety alerts
+[Explore my repositories](https://github.com/raghav2811?tab=repositories)
 
 </details>
 
 <details>
-<summary><b>📊 Airbnb Data Analytics</b></summary>
+<summary><b>03 — MineSentinel | Smart PPE Monitoring</b></summary>
 
-A data analytics project exploring Airbnb listings, pricing, neighbourhood trends, and reviews.
+**Objective:** Explore AI-assisted personal protective equipment compliance monitoring for mining environments.
 
-- 🐍 Python, Pandas, and NumPy
-- 📈 Plotly interactive visualizations
-- 🔍 Data cleaning and statistical analysis
-- 🎨 Interactive dashboard design
+- Computer vision and object detection
+- PPE compliance analysis
+- Real-time monitoring concept
+
+[Explore my repositories](https://github.com/raghav2811?tab=repositories)
+
+</details>
+
+<details>
+<summary><b>04 — AI Wildlife Conservation</b></summary>
+
+**Objective:** Apply offline object detection to wildlife conservation scenarios.
+
+- Python, YOLO, OpenCV
+- Image-based detection
+- Offline inference concept
+
+[Explore my repositories](https://github.com/raghav2811?tab=repositories)
 
 </details>
 
 <div align="center">
 
 <a href="https://github.com/raghav2811?tab=repositories">
-  <img src="https://img.shields.io/badge/Explore-All%20Repositories-6C63FF?style=for-the-badge&logo=github" alt="Explore all repositories"/>
+<img src="https://img.shields.io/badge/VIEW_ALL_PROJECTS-00D9FF?style=for-the-badge&logo=github&logoColor=0D1117" alt="View all projects"/>
 </a>
 
 </div>
 
-## 📊 GitHub Analytics
+## `04 / GITHUB_ANALYTICS`
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=raghav2811&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=raghav2811&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghav2811&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top programming languages"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghav2811&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used programming languages"/>
+<br/>
 
-<img src="https://streak-stats.demolab.com?user=raghav2811&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+<img width="70%" src="https://streak-stats.demolab.com?user=raghav2811&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
 
 </div>
 
-## 🐍 Watch My Contributions Get Eaten!
+## `05 / CONTRIBUTION_ACTIVITY`
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/raghav2811/raghav2811/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated GitHub contribution snake"/>
+<img src="https://raw.githubusercontent.com/raghav2811/raghav2811/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated contribution snake"/>
 
 </div>
 
-## 🎯 Current Focus
+## `06 / CURRENT_OBJECTIVES`
 
-- Deepening my understanding of machine learning and AI.
-- Building practical Android and AI-powered applications.
-- Improving problem-solving and software engineering fundamentals.
-- Exploring Generative AI, LLM applications, and deployment workflows.
+- [ ] Strengthen software engineering and problem-solving skills.
+- [ ] Build and deploy useful AI-powered applications.
+- [ ] Improve model evaluation and production ML workflows.
+- [ ] Explore LLM applications and retrieval-augmented generation.
+- [ ] Contribute to open-source projects.
 
-## 🤝 Let's Connect!
-
-I'm always interested in learning, collaborating on interesting projects, and connecting with fellow developers.
+## `07 / ESTABLISH_CONNECTION`
 
 <div align="center">
 
-<a href="https://github.com/raghav2811">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="Follow on GitHub"/>
-</a>
-<a href="https://www.linkedin.com/in/raghavendhar-r-407202210/">
-  <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="Connect on LinkedIn"/>
-</a>
+<a href="https://github.com/raghav2811"><img src="https://img.shields.io/badge/GITHUB-Follow-111827?style=for-the-badge&logo=github" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/raghavendhar-r-407202210/"><img src="https://img.shields.io/badge/LINKEDIN-Connect-111827?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:302b63,100:090979&height=110&section=footer" width="100%" alt="Animated footer"/>
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:06B6D4,50:312E81,100:080B20&height=120&section=footer" width="100%" alt="Profile footer"/>
 
-**Thanks for visiting! ⭐ Explore my repositories and let's build something awesome.**
+**`while (curious) { learn(); build(); repeat(); }`**
+
+<sub>Thanks for visiting my profile. Let's build something meaningful.</sub>
 
 </div>
