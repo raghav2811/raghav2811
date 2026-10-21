@@ -111,34 +111,29 @@ An offline computer-vision concept for detecting wildlife in images.
 
 </div>
 
-## `04 / GITHUB ANALYTICS`
+## `04 / DEVELOPER ANALYTICS`
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%" align="center" valign="top">
-<img src="https://github-readme-stats.vercel.app/api?username=raghav2811&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&card_width=400" width="100%" alt="GitHub overview"/>
-</td>
-<td width="50%" align="center" valign="top">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghav2811&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&card_width=400" width="100%" alt="Most used languages"/>
-</td>
-</tr>
-</table>
+<img src="https://github-readme-stats.vercel.app/api?username=raghav2811&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=8B5CF6&text_color=C9D1D9&rank_icon=github&include_all_commits=true" width="100%" alt="GitHub developer statistics"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=raghav2811&theme=tokyonight&hide_border=true" width="85%" alt="GitHub contribution streak"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghav2811&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=8" width="100%" alt="Programming language breakdown"/>
 
 </div>
 
 ---
 
-## `05 / CONTRIBUTION ACTIVITY`
+## `05 / CONTRIBUTION MATRIX`
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/raghav2811/raghav2811/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated contribution snake"/>
+<img src="https://raw.githubusercontent.com/raghav2811/raghav2811/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated GitHub contribution snake"/>
+
+<br/>
+
+<sub>CONSISTENCY • CURIOSITY • CONTINUOUS IMPROVEMENT</sub>
 
 </div>
 
