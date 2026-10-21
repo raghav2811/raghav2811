@@ -8,7 +8,7 @@
 
 <a href="https://github.com/raghav2811"><img src="https://img.shields.io/badge/GitHub-Explore%20Repos-161B22?style=for-the-badge&logo=github&logoColor=00D9FF" alt="Explore repositories"/></a>&nbsp;
 <a href="https://www.linkedin.com/in/raghavendhar-r-407202210/"><img src="https://img.shields.io/badge/LinkedIn-Connect-161B22?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="Connect on LinkedIn"/></a>&nbsp;
-<a href="https://github.com/raghav2811?tab=repositories"><img src="https://img.shields.io/badge/Open_to-Collaborate-161B22?style=for-the-badge&logo=githubsponsors&logoColor=00D9FF" alt="Open to collaboration"/></a>
+<a href="mailto:raghavgkp01@gmail.com"><img src="https://img.shields.io/badge/Open_to-Collaborate-161B22?style=for-the-badge&logo=githubsponsors&logoColor=00D9FF" alt="Open to collaboration"/></a>
 
 </div>
 
